@@ -38,3 +38,7 @@ gradle/
 # Exercism files
 *.exercism
 
+# NPM files
+node_modules/
+package-lock.json
+
