@@ -42,3 +42,8 @@ gradle/
 node_modules/
 package-lock.json
 
+# VSCode Java Project files
+.vscode
+.settings
+.classpath
+.project
